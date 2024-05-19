@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm Szymon</h1>
-<h3 align="center">An ambitious front-end developer from Poland. I have 4 years of experience in building websites using Joomla, CSS, and JavaScript. I have experience building a variety of websites, including e-commerce sites, corporate websites, and personal websites. I am also skilled in using CSS to create visually appealing and responsive websites. I am a team player and I am able to work independently.</h3>
+<h1>Hello 👋, I'm Szymon</h1>
+<h3>An ambitious front-end developer from Poland. I have 4 years of experience in building websites using Joomla, CSS, and JavaScript. I have experience building a variety of websites, including e-commerce sites, corporate websites, and personal websites. I am also skilled in using CSS to create visually appealing and responsive websites. I am a team player and I am able to work independently.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymon-levy&label=Profile%20views&color=0e75b6&style=flat" alt="szymon-levy" /> </p>
 
