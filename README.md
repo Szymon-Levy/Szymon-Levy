@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=szymon-levy&label=Profile%20views&color=0e75b6&style=flat" alt="szymon-levy" /> </p>
 
-- 🔭 I’m currently working on **Blog website in PHP**
+- 🔭 I’m currently working on **Ecommerce in PHP**
 
 - 🌱 I’m currently learning **PHP and MySQL**
 
